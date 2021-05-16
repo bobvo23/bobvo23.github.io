@@ -1,6 +1,3 @@
-This is the repository for my personal portfolio.
-https://bobvo23.github.io/resume/
-
 ## Portfolio
 
 ---
@@ -16,6 +13,14 @@ Paper Title: [End to end object detection with transformers](https://arxiv.org/a
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=e6xp4AHLCVs
 " target="_blank"><img src="images/transfromer_project.jpg"
 alt="Transformer Model" width="500" height="180" border="4" /></a>
+
+---
+
+### Human Activity Recognition using Deep Learning
+
+ABLSTM model for Wifi CSI based Human Activity Recognition - [Report](pdf/HAR_Wifi_report.pdf)
+
+I have attempted to reproduce the results in the WiFi CSI Based Passive Human Activity Recognition Using Attention Based BLSTM using a publicly available dataset. The process involves the re-implementation of the Attention Based Bidirectional Long Short Term Memory method in the original study. My algorithm’s results align with the claims in the original paper.
 
 ---
 
@@ -45,12 +50,13 @@ Developed a database application in C# and SQL for Intel Manufacturing Lab to as
 
 SSVEP Stimulator using MATLAB and Psychtoolbox
 
-This is a 4 classes (or more) flickering stimulator for Steady State Evoked Potential experiment. The software generate four different target as can be seen in this video. [Youtube demo video](https://www.youtube.com/watch?v=HriCj1_7jdI) This tool presents a stable flickering frequencies which are usable for BCI applications.
+This is a 4 classes (or more) flickering stimulator for Steady State Evoked Potential experiment. The software generates four different target as can be seen in this video. [Youtube demo video](https://www.youtube.com/watch?v=HriCj1_7jdI) This tool presents a stable flickering frequencies which are usable for BCI applications.
 
 ---
 
-### [WEEGEE](https://github.com/bobvo23/WEEG_SigPro)
+### [WEEGEE Project](https://github.com/bobvo23/WEEG_SigPro)
 
+[Master thesis](pdf/master_thesis.pdf)
 This is the thesis project for my Master in Biomedical Engineering.
 
 WEEG is a 24-bit 8-channel EEG system with integrated hardware and software interface. The device is based a new system-on-a-chip (SoC) to reduce circuitry components and be cost effective. Real-time view of 8-channel EEG data is also displayed.
@@ -68,4 +74,22 @@ Nguyen T.C., Huynh TQ., Vo TT., Nguyen P.N., Vo Van T. (2018) An EEG Front-End S
 
 ### Certificate
 
+<img src="images/aws_ml_cert.png" alt="aws machine learning cert" width="150"/>
+
+[AWS Machine Learning Specialty Certification](https://www.credly.com/badges/770736a5-2b30-4cf7-8ab9-6ba4b81188eb/public_url)
+
+<img src="images/tfcert.png" alt="plaTF Certnt" width="150"/>
+
 [TensorFlow Developer Certificate](pdf/tf_cert.pdf)
+
+Event Speaker (Microsoft)
+
+Cloud Platform Online: Modern Business Intelligence
+
+### Honors-Awards
+
+Intel Achievement Award, TMG, Divisional Recognition Award.
+
+Intel Best Oral Presentation in Intern Projects symposium.
+
+Intel National Scholarship (Top 3% students in the country)
